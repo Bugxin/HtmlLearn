@@ -1,0 +1,84 @@
+.close-span{
+    top: 5px;
+    position: relative;
+}
+
+#loginContent a{
+    float: right;
+}
+
+#loginMenu{
+    margin-bottom: 10px;
+}
+
+/*解决模态框抖动问题*/
+.modal-open{
+    padding-right:17px!important;
+}
+
+#register-text{
+    text-align: right;
+    margin: 3px 0;
+}
+
+.main-content{
+    margin-top: 60px;
+}
+
+.media img{
+    width: 64px;
+    height: 64px;
+}
+
+.media{
+    border-bottom: 1px solid #dce7f4;
+    padding: 10px 0;
+}
+
+.part2{
+    margin-bottom: 5px;
+}
+
+
+.content_top{
+    margin-bottom: 20px;
+}
+
+.content-top-left{
+    float: left;
+}
+.content-top-left p{
+    float: left;
+    margin:5px;
+    color: #369;
+    font-weight: bold;
+}
+.content-top-right{
+    float: right;
+}
+
+.content-top-right input{
+    float: right;
+    border-width: 0px;
+    background-color: #6B8E23;
+    width: 130px;
+    height: 32px;
+}
+
+.content-top-right p{
+    float: right;
+    margin:5px;
+    color: #390;
+}
+
+.content-right{
+    background: url("../img/bj1.jpg");
+    height: 600px;
+    text-align: center;
+}
+
+
+#page ul{
+    position: relative;
+    left: 50%;
+}
